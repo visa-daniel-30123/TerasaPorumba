@@ -1,3 +1,7 @@
 1 Crispy
 2 HotDog
 3 Cola
+4 Bere
+5 Mici
+6 Ceafa
+7 Cartofi
